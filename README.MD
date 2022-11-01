@@ -6,7 +6,7 @@
 
 Clone this project
 ```
-git clone LINK HERE
+git clone https://github.com/Wrightlab1/zoompythongui.git
 ```
 Install dependencies
 ```
