@@ -1,4 +1,4 @@
-# PYTHON ZOOM REST API SCRIPT TEMPLATE
+# PYTHON ZOOM REST API GUI
 
 ## Installation
 [Download](https://www.python.org/downloads/) and Install the latest python version.
